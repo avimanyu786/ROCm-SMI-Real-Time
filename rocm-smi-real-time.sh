@@ -1,4 +1,5 @@
 #!/bin/bash
+#Based on https://unix.stackexchange.com/questions/314834/output-something-in-a-loop-until-a-key-is-pressed
 
 echo "Running 'rocm-smi' in real time..."
 echo Press Q to exit.
